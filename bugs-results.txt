@@ -1,0 +1,12 @@
+ID   Type      Location  Size Direction Status  Hop Length  
+1    Crawler   -----     18   North     Dead    -----       
+2    Hopper    -----     8    North     Dead    2           
+3    Crawler   -----     5    West      Dead    -----       
+4    Hopper    -----     6    North     Dead    4           
+5    Crawler   -----     7    East      Dead    -----       
+6    Crawler   -----     16   South     Dead    -----       
+7    Jitter    (2,9)     78   North     Alive   -----       
+8    Jitter    -----     6    West      Dead    -----       
+9    Jitter    -----     9    North     Dead    -----       
+10   Jitter    -----     4    South     Dead    -----       
+11   Super     -----     25   North     Dead    -----       
